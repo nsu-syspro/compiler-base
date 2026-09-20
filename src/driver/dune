@@ -1,4 +1,4 @@
 (executable
  (public_name splc)
  (name driver)
- (libraries spl))
+ (libraries cmdliner spl))
